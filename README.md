@@ -1,5 +1,3 @@
-# flipkart-skus-eda-seaborn
-Exploratory Data Analysis of Flipkart SKU dataset using Python, Pandas, and Seaborn to identify pricing patterns, product trends, and business insights.
 # Flipkart SKU Dataset EDA using Seaborn
 
 ## Overview
